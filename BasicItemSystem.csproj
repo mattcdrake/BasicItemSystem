@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Consumable.cs" />
+    <Compile Include="Equipment.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>

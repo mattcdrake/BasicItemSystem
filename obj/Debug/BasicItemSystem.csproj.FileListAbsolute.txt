@@ -1,0 +1,10 @@
+C:\Users\mdrak\source\repos\BasicItemSystem\BasicItemSystem\obj\Debug\BasicItemSystem.csprojResolveAssemblyReference.cache
+C:\Users\mdrak\source\repos\BasicItemSystem\BasicItemSystem\obj\Debug\BasicItemSystem.Form1.resources
+C:\Users\mdrak\source\repos\BasicItemSystem\BasicItemSystem\obj\Debug\BasicItemSystem.Properties.Resources.resources
+C:\Users\mdrak\source\repos\BasicItemSystem\BasicItemSystem\obj\Debug\BasicItemSystem.csproj.GenerateResource.Cache
+C:\Users\mdrak\source\repos\BasicItemSystem\BasicItemSystem\obj\Debug\BasicItemSystem.csproj.CoreCompileInputs.cache
+C:\Users\mdrak\source\repos\BasicItemSystem\BasicItemSystem\bin\Debug\BasicItemSystem.exe.config
+C:\Users\mdrak\source\repos\BasicItemSystem\BasicItemSystem\bin\Debug\BasicItemSystem.exe
+C:\Users\mdrak\source\repos\BasicItemSystem\BasicItemSystem\bin\Debug\BasicItemSystem.pdb
+C:\Users\mdrak\source\repos\BasicItemSystem\BasicItemSystem\obj\Debug\BasicItemSystem.exe
+C:\Users\mdrak\source\repos\BasicItemSystem\BasicItemSystem\obj\Debug\BasicItemSystem.pdb
