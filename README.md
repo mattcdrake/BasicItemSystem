@@ -26,11 +26,6 @@ Design and implement a simple item system that generates and removes items (weap
                 * sling  
                 * wand  
         * armor  
-            * cloth  
-            * leather  
-            * plate  
-            * accessories  
-            * ring  
     * consumable  
         * potion  
         * bombs  
