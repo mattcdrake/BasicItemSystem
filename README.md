@@ -7,6 +7,7 @@ Design and implement a simple item system that generates and removes items (weap
 * Find way to require that an item goes in a given slot. Possibly enumerated types inside of terminal class definition.
 * GUI to select item to create & delete items - while keeping track of what is in existence in the "game world."
 * Extend above idea into the notion of non-existence, world existence, player inventory, and stash inventory (Diablo-esque).
+* Contain functions to use items
 
 ### OOP
 
